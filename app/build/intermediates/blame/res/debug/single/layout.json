@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\PLV\\StudioProjects\\Pc Remote Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shutdown.xml",
+        "source": "C:\\Users\\PLV\\StudioProjects\\Pc Remote Control\\app\\src\\main\\res\\layout\\activity_shutdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\PLV\\StudioProjects\\ShutdownServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\PLV\\StudioProjects\\ShutdownServer\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\PLV\\StudioProjects\\Pc Remote Control\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\PLV\\StudioProjects\\Pc Remote Control\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\PLV\\StudioProjects\\ShutdownServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shutdown.xml",
+        "source": "C:\\Users\\PLV\\StudioProjects\\ShutdownServer\\app\\src\\main\\res\\layout\\activity_shutdown.xml"
+    }
+]

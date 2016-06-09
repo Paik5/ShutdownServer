@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shutdown Server</string>
+    <string name="button_shutdown">Shutdown</string>
+    <string name="button_rest">Restart</string>
+    <string name="button_check">Check</string> 
+    <string name="button_scheduled">Scheduled shutdown</string> 
+  	<string name="button_wake">Wake</string> 
+    
+    <string name="menu_settings">Settings</string>
+  	
+  	<string name="settings_save">Save</string> 
+  	<string name="settings_back">Back</string>
+  	<string name="settings_hostname">Hostname or IP address</string>
+  	<string name="settings_port">Port</string>
+  	<string name="settings_mac">Mac address</string> 
+  	
+  	<string name="hostname_hint">Hostname or IP address</string>
+  	<string name="port_hint">Port</string>   	
+  	<string name="mac_hint">Mac address</string> 
+  	
+  	<string name="toast_wake">Wake on LAN packet sent</string> 
+</resources>

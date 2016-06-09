@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\PLV\\StudioProjects\\Pc Remote Control\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\PLV\\StudioProjects\\Pc Remote Control\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PLV\\StudioProjects\\ShutdownServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\PLV\\StudioProjects\\ShutdownServer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

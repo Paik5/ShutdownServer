@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shutdown Server</string>
+    <string name="button_check">Check</string>
+    <string name="button_rest">Restartovat</string>
+    <string name="button_scheduled">Plánované vypnutí</string>
+    <string name="button_shutdown">Vypnout</string>
+    <string name="button_wake">Zapnout</string>
+    <string name="hostname_hint">Hostname nebo IP adresa</string>
+    <string name="mac_hint">Mac adresa</string>
+    <string name="menu_settings">Nastavení</string>
+    <string name="port_hint">Port</string>
+    <string name="settings_back">Zpět</string>
+    <string name="settings_hostname">Hostname nebo IP adresa</string>
+    <string name="settings_mac">Mac adresa</string>
+    <string name="settings_port">Port</string>
+    <string name="settings_save">Uložit</string>
+    <string name="toast_wake">Wake on LAN paket odeslán</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vypnutí PC</string>
+    <string name="button_shutdown">Vypnout</string>
+    <string name="button_rest">Restartovat</string>
+    <string name="menu_settings">Nastavení</string>
+  	<string name="hostname_hint">Hostname nebo IP adresa</string>
+  	<string name="save">Uložit</string> 
+  	<string name="port_hint">Port</string>
+  	<string name="back">Zpět</string>    
+</resources>
